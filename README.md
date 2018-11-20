@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(11/20/2018)
 
 ### Student Name:  
-(First and Last Name)
+(Alex Nash)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(a photo gallery created using javascript, html, and, css)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ajn14d.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. populateFigures() adds src values to img elements based on order specified in photoOrder array
+2. Left/RightArrow function shifts images one figure to right or left.
+3. PreviewFive is used to preview five images as opposed to three.
 
